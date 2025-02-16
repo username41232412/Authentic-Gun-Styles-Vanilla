@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingStyleDef>
+    <defName>MeleeWeapon_Knife_Islamic</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Islamic/MeleeWeapon_Knife_Islamic</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+      </graphicData>
+  </ThingStyleDef>
+  <ThingStyleDef>
+    <defName>MeleeWeapon_Knife_Morbid</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Morbid/MeleeWeapon_Knife_Morbid</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+    </graphicData>
+  </ThingStyleDef>
+</Defs>

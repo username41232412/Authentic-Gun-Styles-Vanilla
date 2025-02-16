@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingStyleDef>
+    <defName>Gun_MachinePistol_Techist</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Techist/Gun_MachinePistol_Techist</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Gun_MachinePistol_Spikecore</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Spikecore/Gun_MachinePistol_Spikecore</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Gun_MachinePistol_Morbid</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Morbid/Gun_MachinePistol_Morbid</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Gun_MachinePistol_Totemic</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Totemic/Gun_MachinePistol_Totemic</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Gun_MachinePistol_Rustic</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Rustic/Gun_MachinePistol_Rustic</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+</Defs>

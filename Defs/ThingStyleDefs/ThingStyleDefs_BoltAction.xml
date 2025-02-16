@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingStyleDef>
+    <defName>Gun_BoltActionRifle_Techist</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Techist/Gun_BoltActionRifle_Techist</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Gun_BoltActionRifle_Spikecore</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Spikecore/Gun_BoltActionRifle_Spikecore</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Gun_BoltActionRifle_Morbid</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Morbid/Gun_BoltActionRifle_Morbid</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Gun_BoltActionRifle_Totemic</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Totemic/Gun_BoltActionRifle_Totemic</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Gun_BoltActionRifle_Rustic</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Rustic/Gun_BoltActionRifle_Rustic</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+</Defs>

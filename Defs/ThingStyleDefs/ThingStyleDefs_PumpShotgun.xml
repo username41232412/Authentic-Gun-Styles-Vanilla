@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingStyleDef>
+    <defName>Gun_PumpShotgun_Techist</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Techist/Gun_PumpShotgun_Techist</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Gun_PumpShotgun_Spikecore</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Spikecore/Gun_PumpShotgun_Spikecore</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Gun_PumpShotgun_Morbid</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Morbid/Gun_PumpShotgun_Morbid</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Gun_PumpShotgun_Totemic</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Totemic/Gun_PumpShotgun_Totemic</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Gun_PumpShotgun_Rustic</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Rustic/Gun_PumpShotgun_Rustic</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+</Defs>

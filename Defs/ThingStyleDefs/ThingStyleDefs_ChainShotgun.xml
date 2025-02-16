@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingStyleDef>
+    <defName>Gun_ChainShotgun_Techist</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Techist/Gun_ChainShotgun_Techist</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Gun_ChainShotgun_Spikecore</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Spikecore/Gun_ChainShotgun_Spikecore</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Gun_ChainShotgun_Morbid</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Morbid/Gun_ChainShotgun_Morbid</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Gun_ChainShotgun_Totemic</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Totemic/Gun_ChainShotgun_Totemic</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Gun_ChainShotgun_Rustic</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Rustic/Gun_ChainShotgun_Rustic</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+</Defs>

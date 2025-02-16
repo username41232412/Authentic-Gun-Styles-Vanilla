@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Vanilla Gun Styles</name>
+    <packageId>Keshash.VGunStyles</packageId>
+	<author>Keshash</author>
+	<supportedVersions>
+	  <li>1.5</li>
+    </supportedVersions>
+	<description>Adds textures to existing styles of vanilla guns.
+	</description>
+	<modDependencies>
+		<li>
+			<packageId>ludeon.rimworld.ideology</packageId>
+			<displayName>Ideology [Official DLC]</displayName>
+		</li>
+	</modDependencies>
+</ModMetaData>
